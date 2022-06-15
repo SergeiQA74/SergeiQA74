@@ -1,4 +1,4 @@
-### Hi there 👋 # :ok_hand:
+### Hi there 👋 :ok_hand:
 
 
 
