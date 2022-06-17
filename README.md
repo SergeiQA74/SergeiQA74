@@ -11,11 +11,7 @@
 ## Don't worry if something doesn't work. If everything worked, I would be fired.
 ![beautiful](https://i.pinimg.com/736x/38/42/d3/3842d3ad2fd6ebbf9376d10f70498a23--desk-setup-work-spaces.jpg)
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
+<img src="https://SergeiQA74/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 
 
