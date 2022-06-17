@@ -24,7 +24,33 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="Webstorm" alt="Webstorm" width="55" height="55"/>&nbsp;
-    
+
+const fs = require('fs');
+const jsYaml = require('js-yaml');
+const axios = require('axios');
+
+const LANGS_FILEPATH = "./src/common/languageColors.json"
+
+//Retrieve languages from github linguist repository yaml file
+//@ts-ignore
+axios.get("https://raw.githubusercontent.com/github/linguist/master/lib/linguist/languages.yml")
+.then((response) => {
+
+  //and convert them to a JS Object
+  const languages = jsYaml.load(response.data);
+
+  const languageColors = {};
+
+  //Filter only language colors from the whole file
+  Object.keys(languages).forEach((lang) => {
+    languageColors[lang] = languages[lang].color;
+  });
+
+  //Debug Print
+  //console.dir(languageColors);
+  fs.writeFileSync(LANGS_FILEPATH, JSON.stringify(languageColors, null, '    '));
+  
+});    
     
     
     
