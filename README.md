@@ -3,7 +3,8 @@
 ## - :telescope: I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.
 ## - :seedling: I finished the QA at Silicon Valley School(California).
 ## - :zap: In my free time, I like to play tennis, go fishing and training at the gym .
-## - :mailbox:How to find me:<div id="badges"><a href="your-linkedin-URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+## - :mailbox:How to find me:
+<div id="badges"><a href="your-linkedin-URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=SergeiQA74&style=flat-square&color=blue" alt=""/>
 
