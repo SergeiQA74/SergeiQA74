@@ -4,11 +4,15 @@
 ## - :seedling: I finished the QA at Silicon Valley School(California).
 ## - :zap: In my free time, I like to play tennis, go fishing and training at the gym .
 ## - :mailbox:How to find me:<div id="badges">
+<div id="badges">
+  <a href="<div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a> 
+  
+  
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
