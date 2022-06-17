@@ -6,7 +6,7 @@
 ## - :mailbox:How to find me:
 <div id="badges"><a href="your-linkedin-URL"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=SergeiQA74&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=https://github.com/SergeiQA74&style=flat-square&color=blue" alt=""/>
 
 
 ## Don't worry if something doesn't work. If everything worked, I would be fired.
