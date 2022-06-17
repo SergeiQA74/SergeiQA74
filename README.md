@@ -25,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="Webstorm" alt="Webstorm" width="55" height="55"/>&nbsp;
 
-### :fire: My Stats :[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?SergeiQA74&theme=vision-friendly-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiQA74&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     
     
     
