@@ -5,9 +5,10 @@
 ## - :zap: In my free time, I like to play tennis, go fishing and training at the gym .
 ## - :mailbox:How to find me:<div id="badges">
 <div id="badges">
-  <a href="<div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/sergei-kutnyi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
   </a>">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a> 
