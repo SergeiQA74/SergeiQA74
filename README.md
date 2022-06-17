@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Sergei,:woman_technologist: About Me :
+## Hi there 👋 I'm Sergei,:man_technologist: About Me :
 ## I am a QA Manual and Automation Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 ## - :telescope: I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.
 ## - :seedling: QA at Silicon Valley School(California).
