@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="45" height="45"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS" alt="CSS" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original-wordmark.svg" title="Webstorm" alt="Webstorm" width="45" height="45"/>&nbsp;
     
     
     
