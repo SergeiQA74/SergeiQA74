@@ -3,7 +3,7 @@
 ## - :telescope: I’m working as a QA Software Engineer with different Languages(Python,JavaScript,SQL,HTML),services and programs.
 ## - :seedling: QA at Silicon Valley School(California).
 ## - :zap: In my free time, I like to play tennis, go fishing and training at the gym .
-## - :mailbox:How to find me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)(your-linkedin-url)
+## - :mailbox:How to find me:[![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
